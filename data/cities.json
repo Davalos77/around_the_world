@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "id": "b1ea",
+      "cityName": "Chicago",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2022-04-30T14:04:57.000Z",
+      "notes": "Random trip!!!\n",
+      "position": {
+        "lat": "41.850137047753535",
+        "lng": "-87.626953125"
+      }
+    },
+    {
+      "id": "3728",
+      "cityName": "Morelia",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2021-12-31T15:06:27.000Z",
+      "notes": "New Years in Morelia",
+      "position": {
+        "lat": "19.69345634534642",
+        "lng": "-101.19232177734376"
+      }
+    },
+    {
+      "id": "3499",
+      "cityName": "Los Cabos",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2022-09-12T14:07:24.000Z",
+      "notes": "Cabo Wabo!!!!!",
+      "position": {
+        "lat": "22.881394831745066",
+        "lng": "-109.918212890625"
+      }
+    },
+    {
+      "id": "e058",
+      "cityName": "Las Vegas",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2019-12-19T15:08:21.000Z",
+      "notes": "Our First trip together\n",
+      "position": {
+        "lat": "36.164454448495405",
+        "lng": "-115.11474609375"
+      }
+    },
+    {
+      "id": "cadd",
+      "cityName": "Miami",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2021-07-14T05:00:00.000Z",
+      "notes": "BirthdayTrip",
+      "position": {
+        "lat": "25.761741747415225",
+        "lng": "-80.18920898437501"
+      }
+    },
+    {
+      "id": "fb32",
+      "cityName": "Orlando",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2022-01-04T06:00:00.000Z",
+      "notes": "Bae's Birthday",
+      "position": {
+        "lat": "28.532478630838526",
+        "lng": "-81.37573242187501"
+      }
+    },
+    {
+      "id": "862b",
+      "cityName": "New Orleans",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-11-03T14:12:19.000Z",
+      "notes": "Nawlins Baby",
+      "position": {
+        "lat": "29.963820776061432",
+        "lng": "-90.09887695312501"
+      }
+    },
+    {
+      "id": "2978",
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2023-12-09T15:13:07.000Z",
+      "notes": "Our First International trip",
+      "position": {
+        "lat": "35.740037187111355",
+        "lng": "139.74609375000003"
+      }
+    },
+    {
+      "id": "f49d",
+      "cityName": "Honolulu",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-03-11T05:00:00.000Z",
+      "notes": "Sisters Wedding\n",
+      "position": {
+        "lat": "21.28425596405057",
+        "lng": "-157.85247327698767"
+      }
+    }
+  ]
+}
